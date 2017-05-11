@@ -4,7 +4,7 @@
 
 Submitted by: **Di Hoang & Nghia Nguyen**
 
-Time spent: **30* minutes spent in total
+Time spent: **30** minutes spent in total
 
 ## User Stories
 
