@@ -2,7 +2,7 @@
 
 **Tubmlr feed** shows photos from tumblr feeds.
 
-Submitted by: **Nghia Nguyen**
+Submitted by: **Di Hoang & Nghia Nguyen**
 
 Time spent: **30* minutes spent in total
 
