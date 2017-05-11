@@ -1,0 +1,6 @@
+framework module Pods_labCode {
+  umbrella header "Pods-labCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
