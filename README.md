@@ -2,13 +2,9 @@
 
 **Tubmlr feed** shows photos from tumblr feeds.
 
-Submitted by: **Di Hoang & Nghia Nguyen**
+Submitted by: **Nghia Nguyen**
 
-<<<<<<< HEAD
-Time spent: **2.5* minutes spent in total
-=======
-Time spent: **30** minutes spent in total
->>>>>>> e8caa7d7000e82037c34b57e90563d48ddd71486
+Time spent: **2.5* hours spent in total
 
 ## User Stories
 
@@ -28,7 +24,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/3YAVURa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/NghiaNguyen101/tumblr_lab_codepath/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
