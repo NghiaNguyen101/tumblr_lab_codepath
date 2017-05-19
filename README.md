@@ -4,14 +4,19 @@
 
 Submitted by: **Nghia Nguyen**
 
-Time spent: **30* minutes spent in total
+Time spent: **2.5* minutes spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 * [x] Network call - show photos from tumblr
+* [x] Build the Details Screen
+* [x] Add Pull to Refresh
+* [x] Infinite Scrolling
 
 The following **optional** features are implemented:
+* [x] Add Avatar and Publish Dates
+* [x] Zoomable Photo View
 
 The following **additional** features are implemented:
 
